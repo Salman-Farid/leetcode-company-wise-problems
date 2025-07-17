@@ -1,3 +1,8 @@
+<div align="center">
+  <img src="https://github.com/Salman-Farid/leetcode-company-wise-problems/blob/main/1.png?raw=true" width="200" alt="LeetCode Logo">
+  
+  # 🚀 LeetCode Company-Wise Problems
+  
   <p align="center">
     <strong>Your ultimate destination for acing technical interviews at top tech companies!</strong>
   </p>
