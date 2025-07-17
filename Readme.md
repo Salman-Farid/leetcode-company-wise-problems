@@ -1,14 +1,3 @@
-## Leetcode Company wise Problems Lists
-
-- Curated lists of Leetcode questions group by companies, updated as of 1 June 2025.
-- Each company folder consists of questions from the past 30, 60, 90 days and all time questions wherever available.
-
-- System Design Notes: https://github.com/liquidslr/system-design-notes
-<div align="center">
-  <img src="https://github.com/Salman-Farid/leetcode-company-wise-problems/blob/main/1.png?raw=true" width="200" alt="LeetCode Logo">
-  
-  # 🚀 LeetCode Company-Wise Problems
-  
   <p align="center">
     <strong>Your ultimate destination for acing technical interviews at top tech companies!</strong>
   </p>
